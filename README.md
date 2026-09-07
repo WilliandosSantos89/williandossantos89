@@ -4,9 +4,13 @@
 
 <br>
 
-### Desenvolvimento de soluções digitais para gestão, produtividade e educação
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3500&pause=900&color=20E3D2&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Administra%C3%A7%C3%A3o+%2B+tecnologia+aplicada%3BAutoma%C3%A7%C3%A3o+para+processos+reais%3BIA+respons%C3%A1vel+para+gest%C3%A3o+e+produtividade%3BDesign+gr%C3%A1fico+para+comunicar+ideias" alt="Administração e tecnologia, automação, IA responsável e design gráfico" />
 
-Transformo problemas de operação em aplicações práticas, combinando **desenvolvimento**, **automação**, **inteligência artificial** e **visão de negócio**.
+Transformo problemas de operação em aplicações práticas, combinando **desenvolvimento**, **automação**, **inteligência artificial**, **design gráfico** e **visão de negócio**.
+
+[![Formação](https://img.shields.io/badge/ADS_%2B_ADMINISTRAÇÃO-111827?style=flat-square&labelColor=111827&color=20E3D2)](https://github.com/WilliandosSantos89)
+[![Localização](https://img.shields.io/badge/FORTALEZA_·_CE-111827?style=flat-square&labelColor=111827&color=4F9CF9)](https://github.com/WilliandosSantos89)
+[![Em construção](https://img.shields.io/badge/CONSTRUINDO-ADMIN.TECH-9B6DFF?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/WilliandosSantos89/Admin.Tech)
 
 <br>
 
@@ -21,13 +25,14 @@ Transformo problemas de operação em aplicações práticas, combinando **desen
 
 ## 👋 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e estudante de **Administração**. Minha atuação conecta tecnologia e negócios para criar produtos digitais úteis, claros e aplicáveis a situações reais.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e estudante de **Administração**. Minha atuação conecta tecnologia, gestão e design para criar produtos digitais úteis, claros e aplicáveis a situações reais.
 
 Tenho interesse especial em:
 
 - sistemas e automações para rotinas administrativas;
 - inteligência artificial aplicada a produtos e processos;
 - experiências digitais acessíveis e bem organizadas;
+- design gráfico e comunicação visual com Adobe Creative Cloud, Canva e Figma;
 - educação prática baseada em projetos;
 - soluções para produtividade, dados e tomada de decisão.
 
@@ -119,7 +124,12 @@ Tenho interesse especial em:
 ![Vite](https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=9B6DFF)
 ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=F24E1E)
+
+### Design e criação visual
+
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-111827?style=for-the-badge&logo=adobecreativecloud&logoColor=FF0000)
+![Canva](https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=20C4CB)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 </div>
 
@@ -145,12 +155,32 @@ Tenho interesse especial em:
 
 <br>
 
-## ↗ Atualmente
+## ↗ Construindo agora
 
+<div align="center">
+
+[![Admin.Tech](https://img.shields.io/badge/PROJETO_ATUAL-ADMIN.TECH-20E3D2?style=for-the-badge&logo=bookstack&logoColor=07101F)](https://github.com/WilliandosSantos89/Admin.Tech)
+[![Atualizações](https://img.shields.io/badge/ATUALIZAÇÕES-LINKEDIN-4F9CF9?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/willian-dos-santos/)
+
+</div>
+
+- evoluindo a trilha aberta Admin.Tech em ciclos semanais;
 - aprofundando React, TypeScript, Node.js e Python;
 - estudando Administração e aplicação de tecnologia em processos;
 - construindo produtos nas áreas de produtividade, educação e gestão;
 - melhorando documentação, testes e publicação dos projetos.
+
+<br>
+
+## ◌ Atividade pública
+
+Este cartão mostra apenas contribuições públicas e funciona como registro de constância — não como medida isolada de conhecimento ou qualidade.
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=WilliandosSantos89&theme=transparent&hide_border=true&locale=pt_BR&ring=20E3D2&fire=9B6DFF&currStreakLabel=4F9CF9&sideLabels=A7B5C8&dates=7D8CA3&stroke=4F9CF9&background=00000000" alt="Sequência de contribuições públicas de Willian dos Santos no GitHub" />
+
+</div>
 
 <br>
 
